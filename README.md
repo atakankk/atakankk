@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Flotr-so-it-begins-gif-10940788&psig=AOvVaw2TcpdD0kB0lzbrQZZytXld&ust=1718143246777000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi_3caE0oYDFQAAAAAdAAAAABAE)
+
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
