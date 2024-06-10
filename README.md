@@ -1,4 +1,4 @@
-[![MasterHead]([https://files.oaiusercontent.com/file-ViaCgnkl4HOC0hXpCZsac7mp?se=2024-06-10T21%3A53%3A42Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbe37467e-9a49-4536-a363-a49619df7358.webp&sig=2h52V7kBXPg2QJkihGHWMxT9p5Ayx0PIyv2JXqOd3Wk%3D)](https://imgur.com/ZjRO4IA)
+
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
