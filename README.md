@@ -1,8 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Atakan</h1>
-<h3 align="center">Jr.Computer Engineer in Türkiye
-
+<h3 align="center">Jr.Computer Engineer in Türkiye</h3>
 Hello there, I am Atakan Kargınoğlu
+I'm currently learning MLOps
+💻 R&D Intern – Artificial Intelligence
+🎓 Bachelor’s Degree in Computer Engineering
+<h3 align="left">Hello there, I am Atakan Kargınoğlu
 I'm currently learning MLOps
 💻 R&D Intern – Artificial Intelligence
 🎓 Bachelor’s Degree in Computer Engineering</h3>
