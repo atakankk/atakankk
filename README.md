@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Atakan</h1>
-<h3 align="center">Jr.Computer Engineer in Türkiye</h3>
+<h3 align="center">Jr.Sofware Engineer in Türkiye</h3>
 
 
 <h3 align="left">Hello there, I am Atakan Kargınoğlu</h3>
