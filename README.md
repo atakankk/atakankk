@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Atakan</h1>
-<h3 align="center">Jr.AI Engineer in Türkiye</h3>
+<h3 align="center">Jr. AI Engineer in Türkiye</h3>
 
 
 <h3 align="left">Hello there,</h3>
