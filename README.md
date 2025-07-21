@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Atakan</h1>
-<h3 align="center">Jr.Sofware Engineer in Türkiye</h3>
+<h3 align="center">Jr.AI Engineer in Türkiye</h3>
 
 
-<h3 align="left">Hello there, I am Atakan Kargınoğlu</h3>
+<h3 align="left">Hello there,</h3>
 <h3 align="left">I'm currently learning MLOps</h3>
 <h3 align="left">💻 R&D Intern – Artificial Intelligence</h3>
 <h3 align="left">🎓 Bachelor’s Degree in Computer Engineering</h3>
